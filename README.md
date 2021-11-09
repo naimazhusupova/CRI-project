@@ -1,1 +1,1 @@
-# CRI-project
+# Open Science Project
